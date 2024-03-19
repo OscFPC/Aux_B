@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T21:53:49.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="64STm07t8s-GAxn-aquT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T22:00:30.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mFZnuMBVC6nh8RoZgHxz" version="24.0.7" type="github">
   <diagram name="Página-1" id="_Rh3SCcGKvzbSyJpAQNY">
-    <mxGraphModel dx="2474" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1512" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="cnzqpyGheFjlVk1Ljbfj-29" value="1. Pipeline de ventas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cnzqpyGheFjlVk1Ljbfj-28">
           <mxGeometry y="26" width="201" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="cnzqpyGheFjlVk1Ljbfj-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pipeline (Embudo de ventas)&lt;/h1&gt;&lt;p&gt;Representación de cada etapa del proceso que un cliente potencial atraviesa para comprar o adquirir un servicio. (Modo dashboard)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-581.5" y="831" width="347.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
