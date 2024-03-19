@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T21:09:32.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2I_GwEjxS4RdNhzuR5pf" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T21:16:05.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D7XwkriYh9QRNNgJm32W" version="24.0.7" type="github">
   <diagram name="Página-1" id="_Rh3SCcGKvzbSyJpAQNY">
     <mxGraphModel dx="2474" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,8 +142,11 @@
         <mxCell id="cnzqpyGheFjlVk1Ljbfj-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CRM&lt;/h1&gt;&lt;p&gt;Customer Relationship management&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-761" y="-137" width="268" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cnzqpyGheFjlVk1Ljbfj-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sistema de gestión&lt;/h1&gt;&lt;p&gt;Sistemas automatizados para contacto repetitivo del cliente&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="600" width="195.5" height="179" as="geometry" />
+        <mxCell id="cnzqpyGheFjlVk1Ljbfj-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sistema de gestión&lt;/h1&gt;&lt;p&gt;Sistemas automatizados para contacto repetitivo del cliente&lt;/p&gt;&lt;p&gt;Como:&lt;br&gt;Facturacion mensual&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87.25" y="600" width="195.5" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="cnzqpyGheFjlVk1Ljbfj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wjnSE2aELxMfAQyGtT-Z-44" target="cnzqpyGheFjlVk1Ljbfj-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
