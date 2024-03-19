@@ -1,4 +1,5 @@
 Consultar pagina de sales force CRM
   -Conceptos clave
-    -Puntos de contacto
-    -Transformación digital
+    -Puntos de contacto (https://www.salesforce.com/mx/blog/puntos-de-contacto/)
+    -Transformación digital (https://www.salesforce.com/mx/blog/Transformacion-digital-en-la-experiencia-del-cliente/)
+
