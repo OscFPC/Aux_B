@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T22:27:18.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sC7nIcMy9TFnQWLEbgQp" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T22:40:33.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zua7TQs2FhpX-wE21VbZ" version="24.0.7" type="github">
   <diagram name="Página-1" id="_Rh3SCcGKvzbSyJpAQNY">
     <mxGraphModel dx="1512" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,6 +174,12 @@
         </mxCell>
         <mxCell id="cnzqpyGheFjlVk1Ljbfj-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Captura de correos&lt;/h1&gt;&lt;div&gt;Captura de correos automatica de solo clientes&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-581.75" y="1066" width="347.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cnzqpyGheFjlVk1Ljbfj-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Que tipo de CRM&lt;/h1&gt;&lt;div&gt;CRM local o CRM On-Premise&lt;/div&gt;&lt;div&gt;CRM en la nube&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1066" width="347.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cnzqpyGheFjlVk1Ljbfj-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CRM en...&lt;/h1&gt;&lt;div&gt;Ventas&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Etapa de embudo de ventas&lt;br&gt;&lt;/div&gt;&lt;div&gt;Marketing&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-581.75" y="1186" width="347.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
