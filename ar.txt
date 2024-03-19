@@ -2,4 +2,7 @@ Consultar pagina de sales force CRM
   -Conceptos clave
     -Puntos de contacto (https://www.salesforce.com/mx/blog/puntos-de-contacto/)
     -Transformación digital (https://www.salesforce.com/mx/blog/Transformacion-digital-en-la-experiencia-del-cliente/)
+    -Recorrido del comprador (https://www.salesforce.com/mx/products/marketing-cloud/todo-sobre-marketing/recorrido-del-cliente/)
+  -leads (https://www.salesforce.com/mx/blog/todo-sobre-leads/)
+  -Cuarta revolución industrial (https://www.salesforce.com/mx/blog/cuarta-revolucion-industrial/)
 
