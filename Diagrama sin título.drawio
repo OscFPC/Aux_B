@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T21:38:37.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pOeqLyTSgaNwB5GwGLk2" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T21:45:26.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="luYI5megX20K3CLbVhLi" version="24.0.7" type="github">
   <diagram name="Página-1" id="_Rh3SCcGKvzbSyJpAQNY">
     <mxGraphModel dx="2474" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,10 @@
           <mxGeometry x="125" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wjnSE2aELxMfAQyGtT-Z-34" value="Acciones" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-547.5" y="307" width="201" height="202" as="geometry" />
+          <mxGeometry x="-547.5" y="307" width="201" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="wjnSE2aELxMfAQyGtT-Z-39" value="1. Ver y recibir reportes de los comerciales.&lt;div&gt;2. Mandar comentarios o mnsj a los comerciales.&lt;/div&gt;&lt;div&gt;3. Ver status de los clientes con respecto a los comerciales.&lt;/div&gt;&lt;div&gt;4. Asignar tareas a comerciales&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wjnSE2aELxMfAQyGtT-Z-34" vertex="1">
-          <mxGeometry y="26" width="201" height="176" as="geometry" />
+        <mxCell id="wjnSE2aELxMfAQyGtT-Z-39" value="1. Ver y recibir reportes de los comerciales.&lt;div&gt;2. Mandar comentarios o mnsj a los comerciales y clientes.&lt;/div&gt;&lt;div&gt;3. Ver status de los clientes con respecto a los comerciales (Servicios o necesidades que requiere el cliente).&lt;/div&gt;&lt;div&gt;4. Asignar tareas a comerciales y ver el cumplimento o estatus de esta.&lt;/div&gt;&lt;div&gt;5. Ver agenda completa de los clientes (Añadir, modificar o eliminar)&lt;/div&gt;&lt;div&gt;6. Visualizar dashbords globales y de clientes.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wjnSE2aELxMfAQyGtT-Z-34" vertex="1">
+          <mxGeometry y="26" width="201" height="296" as="geometry" />
         </mxCell>
         <mxCell id="wjnSE2aELxMfAQyGtT-Z-40" value="Acciones" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-206.5" y="307" width="201" height="202" as="geometry" />
