@@ -1,0 +1,9 @@
+1.Download program
+2.Create forlder "Administrador de archivos"
+3.Drop program in folder
+4.Create txt and insert this:
+  set __COMPAT_LAYER=RunAsInvoker
+  start "INSTALLER NAME"
+5.Change "INSTALLER NAME" fot the name program
+6.Go to the file and save whit "nombre.bat" change to the all files
+7.Click in .bat and install
