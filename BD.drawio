@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T17:16:12.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BJnl9mUGf2m0zUd1NR2v" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T17:45:11.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="N_4CeYbHYd2kWaUJGjoU" version="24.0.8" type="github">
   <diagram id="yYxodml36QbaJqeOO-uj" name="Página-2">
-    <mxGraphModel dx="1955" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2399" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-53" value="idContactos- Foreign key" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-51">
+        <mxCell id="TasF5eG6g31AmEuPPYUT-53" value="idContactos - Foreign key" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-51">
           <mxGeometry x="140" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -259,8 +259,21 @@
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-44">
+        <mxCell id="TasF5eG6g31AmEuPPYUT-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-44">
           <mxGeometry y="210" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-70" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-69">
+          <mxGeometry width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-71" value="idCampaña&amp;nbsp;- Foreign key" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-69">
+          <mxGeometry x="140" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#5C5C5C;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-44">
+          <mxGeometry y="240" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-64" value="DATE TIME" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-63">
           <mxGeometry width="140" height="30" as="geometry">
@@ -273,27 +286,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-44">
-          <mxGeometry y="240" width="410" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-67" value="DATE TIME" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-66">
-          <mxGeometry width="140" height="30" as="geometry">
-            <mxRectangle width="140" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-68" value="Fecha final campaña" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-66">
-          <mxGeometry x="140" width="270" height="30" as="geometry">
-            <mxRectangle width="270" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-44">
           <mxGeometry y="270" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-70" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-69">
+        <mxCell id="TasF5eG6g31AmEuPPYUT-67" value="DATE TIME" style="shape=partialRectangle;connectable=0;fillColor=#5C5C5C;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-66">
           <mxGeometry width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-71" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-69">
+        <mxCell id="TasF5eG6g31AmEuPPYUT-68" value="Fecha final campaña" style="shape=partialRectangle;connectable=0;fillColor=#5C5C5C;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-66">
           <mxGeometry x="140" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-84" value="Contactos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-80" width="410" height="380" as="geometry" />
+          <mxGeometry x="1241" y="-80" width="410" height="380" as="geometry" />
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="TasF5eG6g31AmEuPPYUT-84">
           <mxGeometry y="30" width="410" height="30" as="geometry" />
@@ -510,7 +510,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-124" value="Contacto" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="340" width="410" height="420" as="geometry">
+          <mxGeometry x="1244" y="350" width="410" height="420" as="geometry">
             <mxRectangle x="520" y="-70" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -684,7 +684,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-174" value="Campañas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="375" width="410" height="420" as="geometry">
+          <mxGeometry x="530" y="450" width="410" height="420" as="geometry">
             <mxRectangle x="520" y="-70" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -861,10 +861,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TasF5eG6g31AmEuPPYUT-214" value="Relationship&lt;div&gt;1:n&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="354" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="353.5" y="-55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TasF5eG6g31AmEuPPYUT-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-5" target="TasF5eG6g31AmEuPPYUT-214">
+        <mxCell id="TasF5eG6g31AmEuPPYUT-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-2" target="TasF5eG6g31AmEuPPYUT-214">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-217" target="TasF5eG6g31AmEuPPYUT-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-217" value="Relationship&lt;div&gt;1:n&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-45" target="TasF5eG6g31AmEuPPYUT-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-220" target="TasF5eG6g31AmEuPPYUT-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="TasF5eG6g31AmEuPPYUT-220" target="TasF5eG6g31AmEuPPYUT-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TasF5eG6g31AmEuPPYUT-220" value="Relationship&lt;div&gt;1:n&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
