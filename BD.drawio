@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T18:14:30.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lFrrNofBBPkKKKqHtGKv" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T18:47:06.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TjbNZn74Gw-lljExQ3M-" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="1074" dy="2771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="810" dy="2313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4229,17 +4229,74 @@
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-10" value="Ventana principal elegida X" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="879" y="298" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-40" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-12" target="oHZaYsHOnyc6W8TJlVqS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-12" value="Ventana de estado de reuniones" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1035" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-14" target="oHZaYsHOnyc6W8TJlVqS-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-14" value="Ventana Calendario (Agenda del comercial)" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1191" y="298" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-52" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-16" target="oHZaYsHOnyc6W8TJlVqS-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-16" value="Ventana listado de clientes" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1347" y="298" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="oHZaYsHOnyc6W8TJlVqS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="p8IzYefoyy6tHLk2uIPW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="c75SNTtvxaVCy-0D0n0S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="yXaFcjl5KRmiYx8a82PD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="oHZaYsHOnyc6W8TJlVqS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-23" value="Menu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1676" y="-278" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-32" value="Alta o registro (CRUD)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1826" y="-98" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-37" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="-98" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-39" target="oHZaYsHOnyc6W8TJlVqS-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-39" value="Se muestran 4 columnas las cuales se pueden hacer drop list" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="478" width="120" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-43" value="Columnas de reuniones.&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Pendientes.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. En curso.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Finalizadas.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Decisiones tomadas&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="658" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-48" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-45" target="oHZaYsHOnyc6W8TJlVqS-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-45" value="Se muestra un calendario con todas las reuniones proximas o en curso" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="478" width="120" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-47" value="Calendario señalando dias de las reuniones" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="658" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-54" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-51" target="oHZaYsHOnyc6W8TJlVqS-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-51" value="Se muestra un listado de los clientes totales" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-53" value="Se muestra una lista de los clientes" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="658" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
