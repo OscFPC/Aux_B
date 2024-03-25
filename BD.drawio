@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T18:47:06.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TjbNZn74Gw-lljExQ3M-" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T18:52:34.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="j3lJt9p_EP_84cliJ_9h" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="810" dy="2313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="2256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4292,11 +4292,23 @@
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-54" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-51" target="oHZaYsHOnyc6W8TJlVqS-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHZaYsHOnyc6W8TJlVqS-51" value="Se muestra un listado de los clientes totales" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1347" y="478" width="120" height="60" as="geometry" />
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-51" value="Se muestra un listado de los clientes totales, mostrando o indicando aquellos con campaña activa de PSL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="478" width="120" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="oHZaYsHOnyc6W8TJlVqS-53" value="Se muestra una lista de los clientes" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-56" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-53" target="oHZaYsHOnyc6W8TJlVqS-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-53" value="Se muestra una lista de los clientes, con la informacion necesaria" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1347" y="658" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-58" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-55" target="oHZaYsHOnyc6W8TJlVqS-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-55" value="Al darle click a un cliente en la lista se despliega otra ventana, con toda la informacion del cliente, reuniones, acciones tomadas, rating, etc" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="838" width="120" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-57" value="Ventana datos globales del cliente" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
