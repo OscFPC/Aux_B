@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T16:23:50.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="328onFnLu7l5Ybz-vwSU" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T16:26:24.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HROVoey1DvDOCzM_sxDN" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
-    <mxGraphModel dx="2261" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2009,7 +2009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BD.V2" id="7zoF4KTJLT0wrX4bYnIR">
-    <mxGraphModel dx="5607" dy="3909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="3902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-0" />
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-1" parent="KJ7XiCf2S2P1UFh0nPos-0" />
@@ -3633,7 +3633,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mu0cWl9fc9u5MCKElRzt" name="Log_Entidades">
-    <mxGraphModel dx="1647" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3696,7 +3696,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Log_tablas" id="stzNY-p8mJGYR5C2DHE-">
-    <mxGraphModel dx="1595" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wB9WDkxkAycxJFHx7BNc-0" />
         <mxCell id="wB9WDkxkAycxJFHx7BNc-1" parent="wB9WDkxkAycxJFHx7BNc-0" />
@@ -3784,7 +3784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kr_FnQo0hTjiDh6cKds6" name="Log_web">
-    <mxGraphModel dx="1587" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3988,10 +3988,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="1017" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="1971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TlmZBmWIVajOGI2NmsNu-1" value="Legin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="-628" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
