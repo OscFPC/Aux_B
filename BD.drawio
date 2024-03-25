@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T18:52:34.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="j3lJt9p_EP_84cliJ_9h" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T18:53:36.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="We8LASZcMHzTq0UeyHPE" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="778" dy="2256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="850" dy="2381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4259,17 +4259,17 @@
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="yXaFcjl5KRmiYx8a82PD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHZaYsHOnyc6W8TJlVqS-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="oHZaYsHOnyc6W8TJlVqS-37">
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-23" target="oHZaYsHOnyc6W8TJlVqS-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-23" value="Menu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1676" y="-278" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-32" value="Alta o registro (CRUD)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1826" y="-98" width="120" height="80" as="geometry" />
+          <mxGeometry x="1656" y="-98" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-37" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="-98" width="120" height="80" as="geometry" />
+          <mxGeometry x="1853" y="-98" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-39" target="oHZaYsHOnyc6W8TJlVqS-43">
           <mxGeometry relative="1" as="geometry" />
