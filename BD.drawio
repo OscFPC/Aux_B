@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T19:15:43.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Rb3WNI4fbPN3eMyhXFtt" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T19:38:22.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="q_B18enioX4fnhuVcHiS" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2009,7 +2009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BD.V2" id="7zoF4KTJLT0wrX4bYnIR">
-    <mxGraphModel dx="3200" dy="3902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1576" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-0" />
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-1" parent="KJ7XiCf2S2P1UFh0nPos-0" />
@@ -3784,7 +3784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kr_FnQo0hTjiDh6cKds6" name="Log_web">
-    <mxGraphModel dx="955" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="2760" dy="5700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="2231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4325,8 +4325,38 @@
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-61" value="Ventana para seleccionar el tipo de usuario a registrar" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1656" y="292" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-66" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-63" target="oHZaYsHOnyc6W8TJlVqS-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-70" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-63" target="oHZaYsHOnyc6W8TJlVqS-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-71" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-63" target="oHZaYsHOnyc6W8TJlVqS-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oHZaYsHOnyc6W8TJlVqS-63" value="Seleccion de tipo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1656" y="472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-73" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-65" target="oHZaYsHOnyc6W8TJlVqS-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-65" value="Muestra formulario tipo cliente" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-67" value="Muestra formulario tipo comercial" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-68" value="Muestra formulario tipo contacto" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1802" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-75" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oHZaYsHOnyc6W8TJlVqS-72" target="oHZaYsHOnyc6W8TJlVqS-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-72" value="Si tiene PSL se despliega otra ventana con formulario para PSL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="835" width="120" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="oHZaYsHOnyc6W8TJlVqS-74" value="Formulario para PSL del cliente" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1015" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
