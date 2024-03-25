@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T19:38:22.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="q_B18enioX4fnhuVcHiS" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T19:39:48.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rYEIbOWHMpJAXL5xXhYu" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2009,7 +2009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BD.V2" id="7zoF4KTJLT0wrX4bYnIR">
-    <mxGraphModel dx="1576" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-0" />
         <mxCell id="KJ7XiCf2S2P1UFh0nPos-1" parent="KJ7XiCf2S2P1UFh0nPos-0" />
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="948" dy="2231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2434" dy="3943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
