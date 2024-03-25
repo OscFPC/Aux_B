@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T17:31:47.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3NncZV_0Mg5h1EZqgzFO" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-25T17:56:51.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1qJiybTFaTcyFwxtCuOs" version="24.1.0" type="github" pages="6">
   <diagram id="yYxodml36QbaJqeOO-uj" name="BD.V1">
     <mxGraphModel dx="1539" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3988,7 +3988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHdfJZNa__2qv2rTsvTB" name="Log_Ventanas">
-    <mxGraphModel dx="955" dy="2565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="2420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4153,11 +4153,29 @@
         <mxCell id="TlmZBmWIVajOGI2NmsNu-71" value="Se muesta siempre el menu para comercial" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1113" y="-448" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p8IzYefoyy6tHLk2uIPW-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TlmZBmWIVajOGI2NmsNu-73" target="p8IzYefoyy6tHLk2uIPW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8IzYefoyy6tHLk2uIPW-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TlmZBmWIVajOGI2NmsNu-73" target="p8IzYefoyy6tHLk2uIPW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c75SNTtvxaVCy-0D0n0S-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TlmZBmWIVajOGI2NmsNu-73" target="c75SNTtvxaVCy-0D0n0S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TlmZBmWIVajOGI2NmsNu-73" value="Menu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1133" y="-278" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p8IzYefoyy6tHLk2uIPW-1" value="Se muestra siempre el menu para supervisor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1113" y="-1208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8IzYefoyy6tHLk2uIPW-3" value="Home" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="837" y="-88" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p8IzYefoyy6tHLk2uIPW-7" value="Estado de reuniones&lt;div&gt;del comercial (Drop list)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993" y="-88" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c75SNTtvxaVCy-0D0n0S-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="-88" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
