@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T18:51:14.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R2DDNGqWbK34qHGhJmrj" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T18:58:05.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Y26eqK5-_LlyOky_vCbl" version="24.4.4" type="github">
   <diagram name="Página-1" id="ZbiloQiYvvWJCCRVqYYY">
     <mxGraphModel dx="1147" dy="2218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -964,7 +964,7 @@
         <mxCell id="1rbUZgI9QONvz4Zw7Dkb-19" value="Home" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="3030" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="1rbUZgI9QONvz4Zw7Dkb-20" target="1rbUZgI9QONvz4Zw7Dkb-66">
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="1rbUZgI9QONvz4Zw7Dkb-20" target="1rbUZgI9QONvz4Zw7Dkb-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rbUZgI9QONvz4Zw7Dkb-20" value="Detalles perfil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1122,32 +1122,91 @@
         <mxCell id="1rbUZgI9QONvz4Zw7Dkb-64" value="Informacion de ayudai FAQS con mnsj predeterminado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1490" y="2650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="3410" width="160" height="320" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3460" width="160" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-67" value="Ventana principal paciente - HOME (Con Sesiones programadas)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="3360" width="160" height="50" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-77" value="Logo o imagen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-68" value="Logo o imagen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="760" y="3430" width="80" height="80" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-78" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="4030" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-69" value="Informacion" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="730" y="3520" width="140" height="140" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-80" value="Detalles perfil" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4030" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-70" value="Numero de sesion #" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-69">
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-81" value="Ventana principal psicologo- Perfil del psicologo(Informacion de perfil)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-82" value="Imagen perfil paciente" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-83" value="Datos personales paciente" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3680" width="140" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-84" value="Nombre paciente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-83">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-71" value="Lugar (Consultorio), Hora inicio, hora final, Fecha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-69">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-100" value="Direccion (Calle, numero, colonia, ciudad, etc)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-83">
+          <mxGeometry y="90" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-72" value="Nombre del psicologo que atendera" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-69">
-          <mxGeometry y="100" width="140" height="30" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-96" value="Edad, Sexo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-83">
+          <mxGeometry y="140" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-73" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="3690" width="80" height="40" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-97" value="Fecha de nacimiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-83">
+          <mxGeometry y="220" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-74" value="Detalles perfil" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3690" width="80" height="40" as="geometry" />
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-103" value="Boton cambiar contraseña" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-83">
+          <mxGeometry x="15" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-89" value="&lt;u&gt;link cambiar imagen&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-95" value="Estatus del paciente (activo, inactivo)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3740" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-98" value="Estado civil, escolaridad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-99" value="Ocupacion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3880" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-101" value="Telefono" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3930" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" source="1rbUZgI9QONvz4Zw7Dkb-103" target="1rbUZgI9QONvz4Zw7Dkb-108" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-105" value="Abrira una ventana emergente donde podra actualizar su contraseña" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="955" y="3900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" source="1rbUZgI9QONvz4Zw7Dkb-103" target="1rbUZgI9QONvz4Zw7Dkb-105" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="3990" />
+              <mxPoint x="925" y="3940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="965" y="3540" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=60;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-107">
+          <mxGeometry width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-109" value="Cambiar contraseña" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-107">
+          <mxGeometry x="15" y="60" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-110" value="input nueva contraseña" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-109">
+          <mxGeometry x="5" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-111" value="input confirmar nueva contraseña" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-109">
+          <mxGeometry x="5" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-112" value="input contraseña actual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-107">
+          <mxGeometry x="20" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rbUZgI9QONvz4Zw7Dkb-113" value="Boton confirmar cambios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1rbUZgI9QONvz4Zw7Dkb-107">
+          <mxGeometry x="25" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
