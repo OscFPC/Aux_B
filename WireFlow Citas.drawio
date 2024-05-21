@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T17:00:14.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_WD0M1OeChCbV9gur5Tx" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T17:06:03.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nSdwyeBMO4AIts6Ptm-c" version="24.3.1" type="github">
   <diagram name="Página-1" id="ZbiloQiYvvWJCCRVqYYY">
-    <mxGraphModel dx="1247" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="nOO9d--wfHKwfgQTX6aH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="nOO9d--wfHKwfgQTX6aH-18" target="nOO9d--wfHKwfgQTX6aH-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nOO9d--wfHKwfgQTX6aH-18" value="link crear cuenta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nOO9d--wfHKwfgQTX6aH-18" value="&lt;u&gt;link crear cuenta&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOO9d--wfHKwfgQTX6aH-22" value="Abre la ventana con un formulario para crear una cuenta" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -731,52 +731,55 @@
           <mxGeometry x="1940" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1480" width="160" height="520" as="geometry" />
+          <mxGeometry x="720" y="1480" width="160" height="570" as="geometry" />
         </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-136" value="Logo o imagen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="760" y="1500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-138" value="Datos personales" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1640" width="140" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-139" value="Nombre paciente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="25" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-140" value="Estatus del paciente (activo, inactivo)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="80" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-141" value="Edad, Sexo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="110" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-142" value="Fecha de nacimiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="130" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-143" value="Estado civil, escolaridad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-144" value="Ocupacion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="170" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-145" value="Direccion (Calle, numero, colonia, ciudad, etc)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="200" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-146" value="Telefono" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-138">
-          <mxGeometry y="250" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-147" value="Imagen perfil paciente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1690" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-148" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1960" width="40" height="40" as="geometry" />
+          <mxGeometry x="720" y="2010" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-149" value="Lista de pacientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1960" width="60" height="40" as="geometry" />
+          <mxGeometry x="760" y="2010" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-150" value="Detalles perfil" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1960" width="60" height="40" as="geometry" />
+          <mxGeometry x="820" y="2010" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zW9iqZZ3IvsAzEYnk_GR-152" value="Ventana principal administrador - Perfil del administrador (Informacion de perfil)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-154" value="Imagen perfil administrador" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-155" value="Datos personales administrador" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1700" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-156" value="Nombre paciente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="25" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-157" value="Estatus del paciente (activo, inactivo)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-158" value="Edad, Sexo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-159" value="Fecha de nacimiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-160" value="Estado civil, escolaridad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-161" value="Ocupacion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-162" value="Direccion (Calle, numero, colonia, ciudad, etc)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-163" value="Telefono" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zW9iqZZ3IvsAzEYnk_GR-155">
+          <mxGeometry y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zW9iqZZ3IvsAzEYnk_GR-165" value="&lt;u&gt;link cambiar imagen&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1670" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
