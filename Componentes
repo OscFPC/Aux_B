@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T16:49:43.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PU4uLIa1qu8SzY6md2Vw" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T17:01:24.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YX4VXAkBgmtcM5hzxUA5" version="24.4.14" type="github">
   <diagram name="Página-1" id="0dehNWBSyjxQDVUVW0qO">
-    <mxGraphModel dx="685" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,57 @@
         </mxCell>
         <mxCell id="01LFLHdtcJSspecQVfJd-79" value="Icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803.5" y="208.25" width="39" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="852" y="8" width="343" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856.25" y="11.5" width="334.5" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876.5" y="15.25" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="17.5" width="87" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-84" value="Icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="19" width="83" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-85" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="38" width="83" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-86" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="50" width="83" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="976.5" y="15.25" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="17.5" width="87" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-92" value="Icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="19" width="83" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-93" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="38" width="83" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-94" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="50" width="83" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1076.5" y="15.25" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="17.5" width="87" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-97" value="Icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="19" width="83" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-98" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="38" width="83" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="01LFLHdtcJSspecQVfJd-99" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="50" width="83" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
